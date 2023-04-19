@@ -5,7 +5,7 @@ My own notes are included in examples, so you can use these templates to first f
 
 # Brief explanation of all templates
 <b>intro, bridge, chorus, outro:</b>
-  - An example composition demonstrating the structure of intro, bridge, chorus, verse, chorus 2, outro.
+  - An example composition demonstrating the structure of intro, chorus, bridge, verse, chorus 2, outro.
   
 <b>melody, harmony, bass:</b>
   - An example composition section with added harmonies and bass on top of the melody.
