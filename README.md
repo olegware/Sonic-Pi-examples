@@ -11,7 +11,7 @@ My own notes are included in examples, so you can use these templates to first f
   - An example composition section with added harmonies and bass on top of the melody.
   
 <b>alternate structure:</b>
-  - An exampple composition demonstrating deliberate structuring in sonicpiLang
+  - An example composition demonstrating deliberate structuring in sonicpiLang
   
 <b>polyrhythms:</b>
   - An example composition section demonstrating the creation of complex polyrhythms and conclusive chords
