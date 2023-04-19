@@ -10,8 +10,8 @@ My own notes are included in examples, so you can use these templates to first f
 <b>melody, harmony, bass:</b>
   - An example composition section with added harmonies and bass on top of the melody.
   
-<b>alternate structure</b>
+<b>alternate structure:</b>
   - An exampple composition demonstrating deliberate structuring in sonicpiLang
   
-<b>polyrhythms</b>
+<b>polyrhythms:</b>
   - An example composition section demonstrating the creation of complex polyrhythms and conclusive chords
